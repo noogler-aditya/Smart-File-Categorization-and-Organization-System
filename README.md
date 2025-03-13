@@ -1,13 +1,12 @@
 # Smart-File-Categorization-and-Organization-System
 
-![File Organizer Pro](https://img.shields.io/badge/Version-1.0.0-blue)
+![File Organizer Pro]([![temp-Image0-B7-Uu4.avif](https://i.postimg.cc/Lsf54F8T/temp-Image0-B7-Uu4.avif)](https://postimg.cc/xkfng7HJ))
 ![Qt](https://img.shields.io/badge/Qt-6.6.1-green)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 A professional desktop application built with Qt and C++ that automatically organizes files into categories and subcategories based on their file extensions.
 
-![File Organizer Pro Screenshot](screenshots/app_screenshot.png)
+![File Organizer Pro Screenshot]([![temp-Image0-B7-Uu4.avif](https://i.postimg.cc/Lsf54F8T/temp-Image0-B7-Uu4.avif)](https://postimg.cc/xkfng7HJ))
 
 ## Features
 
@@ -61,8 +60,8 @@ File Organizer Pro supports the following file categories and subcategories:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/file-organizer-pro.git
-   cd file-organizer-pro
+   git clone https://github.com/noogler-aditya/smart-File-categorization-and-Organization-System.git
+   cd smart-File-categorization-and-Organization-System
    ```
 
 2. Create a build directory and run CMake:
@@ -81,9 +80,6 @@ File Organizer Pro supports the following file categories and subcategories:
    ./file_organizer
    ```
 
-### Using Pre-built Binaries
-
-Download the latest release for your platform from the [Releases](https://github.com/yourusername/file-organizer-pro/releases) page.
 
 ## Usage
 
@@ -124,10 +120,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
