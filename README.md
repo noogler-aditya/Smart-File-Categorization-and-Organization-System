@@ -1,6 +1,6 @@
 # Smart-File-Categorization-and-Organization-System
 
-![File Organizer Pro]([![temp-Image0-B7-Uu4.avif](https://i.postimg.cc/Lsf54F8T/temp-Image0-B7-Uu4.avif)](https://postimg.cc/xkfng7HJ))
+![File Organizer Pro] [![temp-Image0-B7-Uu4.avif](https://i.postimg.cc/Lsf54F8T/temp-Image0-B7-Uu4.avif)](https://postimg.cc/xkfng7HJ)
 ![Qt](https://img.shields.io/badge/Qt-6.6.1-green)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-orange)
 
