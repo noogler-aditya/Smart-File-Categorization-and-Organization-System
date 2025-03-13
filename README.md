@@ -124,8 +124,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Qt Framework](https://www.qt.io/) for the GUI components
 - [Feather Icons](https://feathericons.com/) for the application icons
 
-## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
-
-Project Link: [https://github.com/yourusername/file-organizer-pro](https://github.com/yourusername/file-organizer-pro) 
